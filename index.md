@@ -4,10 +4,11 @@
 
 <h1 align= "center"> Boozhoo, Sam indizhinikaaz👌</h1>
 
+<p align="center"
+  <strong> KBOCC Business Student  -  FAST Lab Intern
+</p>
 
+<h2 align= "left"> About Me
 
-
-Samuel Chosa
-KBOCC Business Student
-Interested in education, entrepreneurship, health, and more.
+  
 
